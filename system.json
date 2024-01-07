@@ -20,8 +20,13 @@
     "minimum": "11",
     "verified": "11"
   },
-  "esmodules": ["module/deltagreen.js"],
-  "styles": ["css/deltagreen.css", "css/dialogue.css"],
+  "esmodules": [
+    "module/deltagreen.js"
+  ],
+  "styles": [
+    "css/deltagreen.css",
+    "css/dialogue.css"
+  ],
   "languages": [
     {
       "lang": "en",
@@ -57,6 +62,12 @@
       "lang": "pt-BR",
       "name": "Português (Brasil)",
       "path": "lang/pt-BR.json",
+      "flags": {}
+    },
+    {
+      "lang": "zh-tw",
+      "name": "正體中文",
+      "path": "lang/zh-tw.json",
       "flags": {}
     }
   ],
